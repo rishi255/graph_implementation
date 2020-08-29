@@ -11,7 +11,7 @@ include_directories(
     ${HEADER_DIR}
 )
 
-file(GLOB SOURCE_FILES "${SOURCE_DIR}/*.c" )
+file(GLOB SOURCE_FILES "${SOURCE_DIR}/*.cpp" )
 # file(GLOB HEADER_FILES "${HEADER_DIR}/*.h" )
 
 # add the executable
