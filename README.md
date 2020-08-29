@@ -1,6 +1,7 @@
-# Graph Implementation in C
+# Graph Implementation in C++
 
-An implementation of the graph data structure in C, done using adjacency lists.
+An implementation of the graph data structure in C++, done using adjacency lists.
+This was originally done entirely in C, then ported to C++ manually. It uses the modern C++ STL library.  
    
 ## How to build and run:  
 
