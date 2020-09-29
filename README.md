@@ -22,7 +22,7 @@ Once CMake is installed:
    
 ## Features: 
 
-This project is an implementation of the Graph data structure in C using adjacency lists that can perform the following operations on a graph:
+This project is an implementation of the Graph data structure in C++ using adjacency lists that can perform the following operations on a graph:
 
 1. **Node operations:** Add a node, Delete a node
 2. **Edge operations:** Add an edge, Delete an edge
